@@ -2213,9 +2213,9 @@ L_1_[16] = (loadstring(game:HttpGet(L_1_[2]({
 "s/main/UUltimatLY_Hub_Redz_Lib.lua"
 }))))()
 L_1_[38] = L_1_[16]:MakeWindow({
-	["Title"] = "Banana Hub [Freemium]";
+	["Title"] = "RauMa Hub [Freemium]";
 	["SubTitle"] = "by real_long",
-	["SaveFolder"] = "bananahups.json"
+	["SaveFolder"] = "raumahups.json"
 })
 L_1_[87] = Instance["new"]("ScreenGui")
 L_1_[87]["Name"] = "ControlGUI"
