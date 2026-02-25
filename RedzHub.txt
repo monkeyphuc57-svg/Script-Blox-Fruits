@@ -2213,8 +2213,8 @@ L_1_[16] = (loadstring(game:HttpGet(L_1_[2]({
 "s/main/UUltimatLY_Hub_Redz_Lib.lua"
 }))))()
 L_1_[38] = L_1_[16]:MakeWindow({
-	["Title"] = "RauMa Hub [Freemium]";
-	["SubTitle"] = "by real_long",
+	["Title"] = "RauMa Hub [Premium 367]";
+	["SubTitle"] = "by RauMa_Real",
 	["SaveFolder"] = "raumahups.json"
 })
 L_1_[87] = Instance["new"]("ScreenGui")
@@ -2386,7 +2386,7 @@ L_1_[93] = {
 }
 L_1_[93]["Info"]:AddSection("Information")
 L_1_[93]["Info"]:AddDiscordInvite({
-	["Name"] = "Banana Hub",
+	["Name"] = "RauMa Hub",
 	["Description"] = L_1_[2]({
 		"Skibidi";
 		"tolet"
@@ -2396,8 +2396,8 @@ L_1_[93]["Info"]:AddDiscordInvite({
 		""
 	}),
 	["Invite"] = L_1_[2]({
-		" https://discord.gg/k",
-		"DtgT229"
+		" ",
+		" "
 	})
 })
 L_1_[93]["Info"]:AddSection("Status Server")
